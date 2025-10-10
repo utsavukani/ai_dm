@@ -1,4 +1,6 @@
-# AI Dungeon Master - Complete Code Structure
+# AI Dungeon Master
+
+DEMO VIDEO LINK: 
 
 ## Project Overview
 A fully functional AI Dungeon Master with persistent memory, NPC relationships, and 30+ turn stability for immersive role-playing adventures.
@@ -20,25 +22,16 @@ ai_dungeon_master/
 │   ├── 📁 llm/                      # LLM integration layer
 │   │   ├── 📄 __init__.py
 │   │   └── 📄 ollama_client.py      # Ollama API client
-│   └── 📁 utils/                    # Utility functions
-│       ├── 📄 __init__.py
-│       └── 📄 safety_filters.py     # Content safety handling
 ├── 📁 data/                         # Database and storage
 │   └── 📄 memory.db                 # SQLite database (auto-created)
 ├── 📁 tests/                        # Test suite
 │   ├── 📄 test_memory.py           # Memory system tests
-│   ├── 📄 test_game_engine.py      # Game engine tests
-│   └── 📄 test_integration.py      # Integration tests
-├── 📁 logs/                         # Game session logs
 ├── 📁 docs/                         # Documentation
 │   ├── 📄 README.md                # Setup and usage guide
-│   ├── 📄 TECHNICAL_REPORT.md      # Technical documentation
 │   ├── 📄 API_DOCUMENTATION.md     # API reference
 │   └── 📄 architecture_diagram.png  # System architecture
 ├── 📁 venv/                         # Python virtual environment
 ├── 📄 requirements.txt              # Python dependencies
-├── 📄 setup.py                     # Installation script
-├── 📄 .gitignore                   # Git ignore file
 └── 📄 demo_video.mp4               # Demonstration video
 ```
 
