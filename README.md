@@ -249,8 +249,7 @@ npc_interactions (id, npc_id, turn_number, player_action,
 ## 📞 Support & Documentation
 
 For detailed technical documentation, see:
-- `docs/README.md` - User guide and setup instructions
-- `docs/TECHNICAL_REPORT.md` - Technical architecture details
+- `README.md` - User guide and setup instructions
 - `docs/API_DOCUMENTATION.md` - Developer API reference
 
 **Status**: Ready for competition submission ✅
