@@ -27,12 +27,11 @@ ai_dungeon_master/
 ├── 📁 tests/                        # Test suite
 │   ├── 📄 test_memory.py           # Memory system tests
 ├── 📁 docs/                         # Documentation
-│   ├── 📄 README.md                # Setup and usage guide
 │   ├── 📄 API_DOCUMENTATION.md     # API reference
 │   └── 📄 architecture_diagram.png  # System architecture
 ├── 📁 venv/                         # Python virtual environment
 ├── 📄 requirements.txt              # Python dependencies
-└── 📄 demo_video.mp4               # Demonstration video
+├── 📄 README.md                    # Usage and Setup Guide
 ```
 
 ## 🧠 Core Architecture Components
