@@ -5,7 +5,7 @@ DEMO VIDEO LINK: https://youtu.be/lbLSe_plp6k?si=BwNPj5HBeVB6T_WO
 ## Project Overview
 A fully functional AI Dungeon Master with persistent memory, NPC relationships, and 30+ turn stability for immersive role-playing adventures.
 
-## 🏗️ Project Structure
+## 🏗️ project Overview and structure
 
 ```
 ai_dungeon_master/
